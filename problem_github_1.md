@@ -1,6 +1,7 @@
 # problem & Solution #1
 ## Problem::
 
+```bash
 ! [rejected] main -> main (fetch first) error: failed to push some refs to 'https://github.com/username/repo-name.git'
 
  hint: Updates were rejected because the remote contains work that you do not 
@@ -12,6 +13,7 @@
  hint: 'git pull' before pushing again. 
  
  hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ ```
 
 ## Solution::
 
